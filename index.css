@@ -1,0 +1,73 @@
+
+/*header + body*/
+body{
+    background-image:url("assets/bg.jpg");
+    text-align: center;
+}
+
+body header ul li {
+    display: inline-block;
+    margin: 20px;
+    
+}
+
+
+
+body header ul li a{
+    color: inherit;
+    text-decoration: none;
+    padding: 10px;
+    border: 1px solid #777777;
+    border-radius: 1em;
+}
+
+body header ul li a:hover{
+    color: #ffffff;
+}
+
+/*Le MILLIEU*/
+
+/*j'ai envie de dormire ;-;*/
+
+/*le millieu 1*/
+body div#middle h1{
+    color: #ffffff;
+}
+
+body div#middle h2#h2\!1, h2#h2\!2{
+    color: #A5A5A5;
+}
+
+
+body div#middle div.packstarter a, div#textstarter{
+    display: inline-block;
+    vertical-align: top;
+    margin: 60px;
+}
+
+
+body div#middle div.packstarter div#textstarter h2.h2\!3{
+    vertical-align: top;
+    color: red;
+}
+
+body div#middle div.packstarter div#textstarter h2.h2\!4 {
+    color: orange;
+    text-decoration: none;
+}
+
+
+/*Le millieu 2*/
+body div#middle div.packprofessionnel a, div#textprofe{
+    display: inline-block;
+    vertical-align: top;
+    margin: 60px;
+}
+
+body div#middle div.packprofessionnel div#textprofe h2.h2\!5{
+    color: red;
+}
+
+body div#middle div.packprofessionnel div#textprofe h2.h2\!6{
+
+}
